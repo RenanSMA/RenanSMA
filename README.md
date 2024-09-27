@@ -1,4 +1,4 @@
-## Olá! 
+## Olá! Eu sou o Renan!
 
 - 🔭 Atualmente cursando Gestão da Tecnologia da Informação ;
 - 🌱 Estudando Front-end (HTML/CSS/JS) .

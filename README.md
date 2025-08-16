@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Renan!
 
 - 🔭 Atualmente cursando Gestão da Tecnologia da Informação ;
-- 🌱 Estudando Banco de Dados e Engenharia de Software .
+- 🌱 Estudando Programação para Internet e Redes de Computadores.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RenanSMA&show_icons=true&theme=merko)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenanSMA&layout=compact&theme=merko)](https://github.com/RenanSMA/github-readme-stats)
